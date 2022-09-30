@@ -1,4 +1,4 @@
-# GJ_aischool
+# GJ_aischool 광주인공지능사관학교
 #프로젝트
 #광주인공지능사관학교
 #yolov5
